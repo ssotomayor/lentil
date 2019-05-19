@@ -4,7 +4,7 @@
 ## Running it
 ```
 yarn 
-yarn start start
+yarn start
 ```
 
 Or with docker after building the image
