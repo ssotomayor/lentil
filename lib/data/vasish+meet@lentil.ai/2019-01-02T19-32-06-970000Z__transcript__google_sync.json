@@ -1,0 +1,283 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "MwAOEGgBZ7hj24wCHXG3",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "So",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "you'll",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "discuss",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "what",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "Joseph",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "right",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.2,
+            "word": "Yep",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.9,
+            "word": "41",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "Joseph",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "We",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "noticed",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "this",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "kind",
+            "end_time": 8.4
+        },
+        {
+            "start_time": 8.4,
+            "word": "of",
+            "end_time": 8.5
+        },
+        {
+            "start_time": 8.5,
+            "word": "meta",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "issue",
+            "end_time": 9.2
+        },
+        {
+            "start_time": 9.2,
+            "word": "where",
+            "end_time": 9.5
+        },
+        {
+            "start_time": 9.5,
+            "word": "if",
+            "end_time": 9.6
+        },
+        {
+            "start_time": 9.6,
+            "word": "you",
+            "end_time": 9.7
+        },
+        {
+            "start_time": 9.7,
+            "word": "can't",
+            "end_time": 10.5
+        },
+        {
+            "start_time": 10.5,
+            "word": "scroll",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "certain",
+            "end_time": 11.4
+        },
+        {
+            "start_time": 11.4,
+            "word": "screams",
+            "end_time": 12.1
+        },
+        {
+            "start_time": 12.1,
+            "word": "if",
+            "end_time": 12.7
+        },
+        {
+            "start_time": 12.7,
+            "word": "you",
+            "end_time": 12.8
+        },
+        {
+            "start_time": 12.8,
+            "word": "don't",
+            "end_time": 13.2
+        },
+        {
+            "start_time": 13.2,
+            "word": "have",
+            "end_time": 13.3
+        },
+        {
+            "start_time": 13.3,
+            "word": "a",
+            "end_time": 13.4
+        },
+        {
+            "start_time": 13.4,
+            "word": "trackpad",
+            "end_time": 13.9
+        },
+        {
+            "start_time": 13.9,
+            "word": "like",
+            "end_time": 14.8
+        },
+        {
+            "start_time": 14.8,
+            "word": "if",
+            "end_time": 14.9
+        },
+        {
+            "start_time": 14.9,
+            "word": "you",
+            "end_time": 15.0
+        },
+        {
+            "start_time": 15.0,
+            "word": "don't",
+            "end_time": 15.1
+        },
+        {
+            "start_time": 15.1,
+            "word": "have",
+            "end_time": 15.2
+        },
+        {
+            "start_time": 15.2,
+            "word": "like",
+            "end_time": 15.6
+        },
+        {
+            "start_time": 15.6,
+            "word": "a",
+            "end_time": 15.7
+        },
+        {
+            "start_time": 15.7,
+            "word": "scroll",
+            "end_time": 16.1
+        },
+        {
+            "start_time": 16.1,
+            "word": "wheel",
+            "end_time": 16.2
+        },
+        {
+            "start_time": 16.2,
+            "word": "on",
+            "end_time": 16.4
+        },
+        {
+            "start_time": 16.4,
+            "word": "your",
+            "end_time": 16.6
+        },
+        {
+            "start_time": 16.6,
+            "word": "mouse",
+            "end_time": 16.7
+        },
+        {
+            "start_time": 17.2,
+            "word": "it",
+            "end_time": 18.9
+        },
+        {
+            "start_time": 18.9,
+            "word": "was",
+            "end_time": 19.0
+        },
+        {
+            "start_time": 19.0,
+            "word": "reported",
+            "end_time": 19.6
+        },
+        {
+            "start_time": 19.6,
+            "word": "for",
+            "end_time": 19.7
+        },
+        {
+            "start_time": 19.7,
+            "word": "electron",
+            "end_time": 20.4
+        },
+        {
+            "start_time": 20.4,
+            "word": "I",
+            "end_time": 20.5
+        },
+        {
+            "start_time": 20.5,
+            "word": "don't",
+            "end_time": 20.6
+        },
+        {
+            "start_time": 20.6,
+            "word": "know",
+            "end_time": 20.8
+        },
+        {
+            "start_time": 20.8,
+            "word": "if",
+            "end_time": 20.9
+        },
+        {
+            "start_time": 20.9,
+            "word": "it",
+            "end_time": 20.9
+        },
+        {
+            "start_time": 20.9,
+            "word": "applies",
+            "end_time": 21.5
+        },
+        {
+            "start_time": 21.5,
+            "word": "to",
+            "end_time": 21.7
+        }
+    ],
+    "start_time": 1546457526.97,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457548.67,
+    "confidence": 0.88077575,
+    "message": "So you'll discuss what Joseph right Yep 41 Joseph We noticed this kind of meta issue where if you can't scroll certain screams if you don't have a trackpad like if you don't have like a scroll wheel on your mouse it was reported for electron I don't know if it applies to",
+    "client_id": 1546457526,
+    "duration": 21.7,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

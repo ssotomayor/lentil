@@ -1,0 +1,198 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "GgAGEGgBZ7hj24wCwXHy",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "It's",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "all",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "staging",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "Yep",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.3,
+            "word": "It",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "goes",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "right",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "all",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "I'm",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "done",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "Just",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "this",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "was",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "our",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "rodri",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "both",
+            "end_time": 5.2
+        },
+        {
+            "start_time": 5.2,
+            "word": "tested",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "this",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "the",
+            "end_time": 6.7
+        },
+        {
+            "start_time": 6.7,
+            "word": "meeting",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "was",
+            "end_time": 7.8
+        },
+        {
+            "start_time": 7.8,
+            "word": "it",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "was",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "at",
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "word": "the",
+            "end_time": 8.4
+        },
+        {
+            "start_time": 8.4,
+            "word": "bottom",
+            "end_time": 8.5
+        },
+        {
+            "start_time": 8.5,
+            "word": "number",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "I",
+            "end_time": 9.0
+        },
+        {
+            "start_time": 9.0,
+            "word": "said",
+            "end_time": 9.2
+        },
+        {
+            "start_time": 9.2,
+            "word": "the",
+            "end_time": 9.3
+        },
+        {
+            "start_time": 9.3,
+            "word": "rooms",
+            "end_time": 9.6
+        },
+        {
+            "start_time": 9.6,
+            "word": "at",
+            "end_time": 9.7
+        },
+        {
+            "start_time": 9.7,
+            "word": "the",
+            "end_time": 9.7
+        },
+        {
+            "start_time": 9.7,
+            "word": "bottom",
+            "end_time": 10.1
+        },
+        {
+            "start_time": 10.1,
+            "word": "versus",
+            "end_time": 10.4
+        },
+        {
+            "start_time": 10.4,
+            "word": "the",
+            "end_time": 10.5
+        }
+    ],
+    "start_time": 1546457041.93,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457052.43,
+    "confidence": 0.8889121,
+    "message": "It's all staging Yep It goes right all I'm done Just this was our rodri both tested this the meeting was it was at the bottom number I said the rooms at the bottom versus the",
+    "client_id": 1546457041,
+    "duration": 10.5,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

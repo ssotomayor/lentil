@@ -1,0 +1,203 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "RrQVEGgBWaF1niLU_FbD",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Also",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "it's",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "a",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "virtual",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "Okay",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "So",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "what",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "the",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "still",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "have",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "an",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "issue",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "then",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "right",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "after",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "seeing",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "the",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "private",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "room",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.2,
+            "word": "use",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "your",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "list",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "of",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "second",
+            "end_time": 6.5
+        },
+        {
+            "start_time": 6.5,
+            "word": "time",
+            "end_time": 6.6
+        },
+        {
+            "start_time": 6.6,
+            "word": "you",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "go",
+            "end_time": 6.9
+        },
+        {
+            "start_time": 6.9,
+            "word": "in",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "should",
+            "end_time": 7.3
+        },
+        {
+            "start_time": 7.3,
+            "word": "be",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "empty",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "even",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "though",
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "word": "there's",
+            "end_time": 8.4
+        },
+        {
+            "start_time": 8.4,
+            "word": "five",
+            "end_time": 8.6
+        },
+        {
+            "start_time": 8.6,
+            "word": "users",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "in",
+            "end_time": 9.0
+        }
+    ],
+    "start_time": 1546458046.98,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458055.98,
+    "confidence": 0.87311184,
+    "message": "Also it's a virtual Okay So what the still have an issue then right after seeing the private room use your list of second time you go in should be empty even though there's five users in",
+    "client_id": 1546458046,
+    "duration": 9.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

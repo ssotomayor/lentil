@@ -1,0 +1,83 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "QLQVEGgBWaF1niLUF1bM",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Bro",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "it's",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "one",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "That's",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "just",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "a",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "comment",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "for",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "you",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "because",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "it",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "from",
+            "end_time": 5.2
+        },
+        {
+            "start_time": 5.2,
+            "word": "joint",
+            "end_time": 5.5
+        }
+    ],
+    "start_time": 1546457988.96,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457994.46,
+    "confidence": 0.8193684,
+    "message": "Bro it's one That's just a comment for you because it from joint ",
+    "client_id": 1546457988,
+    "duration": 5.5,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

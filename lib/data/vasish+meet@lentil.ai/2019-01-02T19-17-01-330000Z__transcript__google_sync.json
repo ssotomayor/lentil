@@ -1,0 +1,128 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "3bQAEGgBWaF1niLUOFUc",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Remind",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "yourself",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "that",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "you",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "have",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "a",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "chance",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "to",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "look",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "at",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "that",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "or",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "let",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "the",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "sheesh",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.1,
+            "word": "It's",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "just",
+            "end_time": 5.8
+        },
+        {
+            "start_time": 5.8,
+            "word": "a",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "way",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "to",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "find",
+            "end_time": 6.6
+        },
+        {
+            "start_time": 6.6,
+            "word": "it",
+            "end_time": 6.7
+        }
+    ],
+    "start_time": 1546456621.33,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456628.029,
+    "confidence": 0.83038634,
+    "message": "Remind yourself that you have a chance to look at that or let the sheesh It's just a way to find it ",
+    "client_id": 1546456621,
+    "duration": 6.7,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

@@ -1,0 +1,78 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "MQANEGgBZ7hj24wCznG5",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "it",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "we",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "still",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "have",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "some",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "of",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "the",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "old",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "account",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "setting",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "screens",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "and",
+            "end_time": 2.9
+        }
+    ],
+    "start_time": 1546457505.53,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457508.43,
+    "confidence": 0.8478587,
+    "message": "it we still have some of the old account setting screens and",
+    "client_id": 1546457505,
+    "duration": 2.9,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

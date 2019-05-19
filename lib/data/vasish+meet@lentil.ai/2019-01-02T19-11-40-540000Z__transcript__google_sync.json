@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "7AD7D2gBZ7hj24wCV3Cg",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Didn't",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "verify",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "some",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "stuff",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "on",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "Friday",
+            "end_time": 1.8
+        }
+    ],
+    "start_time": 1546456300.54,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456302.339,
+    "confidence": 0.8056939,
+    "message": "Didn't verify some stuff on Friday ",
+    "client_id": 1546456300,
+    "duration": 1.8,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

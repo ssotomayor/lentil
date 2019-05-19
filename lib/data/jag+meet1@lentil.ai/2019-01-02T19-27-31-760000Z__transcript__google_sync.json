@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "ArQJEGgBWaF1niLU3lb7",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "So",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "what",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "are",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "we",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "doing",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "here",
+            "end_time": 2.6
+        }
+    ],
+    "start_time": 1546457251.76,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457254.359,
+    "confidence": 0.77792543,
+    "message": "So what are we doing here ",
+    "client_id": 1546457251,
+    "duration": 2.6,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

@@ -1,0 +1,113 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "SAASEGgBZ7hj24wCbnFn",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "I",
+            "end_time": 0.1
+        },
+        {
+            "start_time": 0.1,
+            "word": "had",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "the",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "time",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "in",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "the",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "window",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "and",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "then",
+            "end_time": 3.4
+        },
+        {
+            "start_time": 3.4,
+            "word": "he",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "see",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "his",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "time",
+            "end_time": 4.0
+        },
+        {
+            "start_time": 4.0,
+            "word": "in",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "the",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "top",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "right",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "the",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "system",
+            "end_time": 5.0
+        }
+    ],
+    "start_time": 1546457812.71,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457817.71,
+    "confidence": 0.7924394,
+    "message": "I had the time in the window and then he see his time in the top right the system ",
+    "client_id": 1546457812,
+    "duration": 5.0,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

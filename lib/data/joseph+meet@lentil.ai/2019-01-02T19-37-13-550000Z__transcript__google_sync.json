@@ -1,0 +1,53 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "MLQSEGgBWaF1niLUzFYj",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "using",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "the",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "time",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "that's",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "associated",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "with",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "his",
+            "end_time": 2.0
+        }
+    ],
+    "start_time": 1546457833.55,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457835.55,
+    "confidence": 0.7598963,
+    "message": "using the time that's associated with his",
+    "client_id": 1546457833,
+    "duration": 2.0,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

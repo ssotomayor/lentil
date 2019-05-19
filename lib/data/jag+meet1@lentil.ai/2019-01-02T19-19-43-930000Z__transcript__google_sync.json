@@ -1,0 +1,218 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "6LQCEGgBWaF1niLU0lUU",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Because",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "there's",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "a",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "lot",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "of",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "stacked",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "racing",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "going",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "on",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "and",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "like",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "I",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "found",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "on",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "today",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "I",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "had",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "to",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "click",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "on",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "a",
+            "end_time": 5.5
+        },
+        {
+            "start_time": 5.5,
+            "word": "certain",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "sequence",
+            "end_time": 6.9
+        },
+        {
+            "start_time": 6.9,
+            "word": "of",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "rooms",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "to",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "get",
+            "end_time": 7.7
+        },
+        {
+            "start_time": 7.7,
+            "word": "it",
+            "end_time": 7.8
+        },
+        {
+            "start_time": 7.8,
+            "word": "to",
+            "end_time": 7.9
+        },
+        {
+            "start_time": 7.9,
+            "word": "trace",
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "word": "those",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "real",
+            "end_time": 9.1
+        },
+        {
+            "start_time": 9.1,
+            "word": "bug",
+            "end_time": 9.4
+        },
+        {
+            "start_time": 9.5,
+            "word": "So",
+            "end_time": 10.4
+        },
+        {
+            "start_time": 10.4,
+            "word": "all",
+            "end_time": 10.6
+        },
+        {
+            "start_time": 10.6,
+            "word": "this",
+            "end_time": 10.7
+        },
+        {
+            "start_time": 10.7,
+            "word": "is",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "a",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "good",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "idea",
+            "end_time": 11.0
+        }
+    ],
+    "start_time": 1546456783.93,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456794.93,
+    "confidence": 0.84706163,
+    "message": "Because there's a lot of stacked racing going on and like I found on today I had to click on a certain sequence of rooms to get it to trace those real bug So all this is a good idea ",
+    "client_id": 1546456783,
+    "duration": 11.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

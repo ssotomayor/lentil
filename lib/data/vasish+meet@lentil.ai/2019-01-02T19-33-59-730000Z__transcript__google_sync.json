@@ -1,0 +1,313 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "OwAPEGgBZ7hj24wCxnHN",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Well",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "I",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "think",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "the",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "issue",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "for",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "the",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "web",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "version",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "right",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "now",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "that",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "I",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "think",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "electron",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "and",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "the",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "web",
+            "end_time": 6.7
+        },
+        {
+            "start_time": 6.7,
+            "word": "I",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "have",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "the",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "same",
+            "end_time": 7.3
+        },
+        {
+            "start_time": 7.3,
+            "word": "issue",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "you",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "go",
+            "end_time": 9.0
+        },
+        {
+            "start_time": 9.0,
+            "word": "to",
+            "end_time": 9.5
+        },
+        {
+            "start_time": 9.5,
+            "word": "account",
+            "end_time": 10.3
+        },
+        {
+            "start_time": 10.3,
+            "word": "settings",
+            "end_time": 10.3
+        },
+        {
+            "start_time": 10.3,
+            "word": "to",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "make",
+            "end_time": 11.1
+        },
+        {
+            "start_time": 11.1,
+            "word": "the",
+            "end_time": 11.3
+        },
+        {
+            "start_time": 11.3,
+            "word": "window",
+            "end_time": 11.5
+        },
+        {
+            "start_time": 11.5,
+            "word": "kind",
+            "end_time": 11.7
+        },
+        {
+            "start_time": 11.7,
+            "word": "of",
+            "end_time": 11.8
+        },
+        {
+            "start_time": 11.8,
+            "word": "small",
+            "end_time": 12.2
+        },
+        {
+            "start_time": 12.2,
+            "word": "and",
+            "end_time": 12.3
+        },
+        {
+            "start_time": 12.3,
+            "word": "don't",
+            "end_time": 12.6
+        },
+        {
+            "start_time": 12.6,
+            "word": "use",
+            "end_time": 13.0
+        },
+        {
+            "start_time": 13.0,
+            "word": "your",
+            "end_time": 13.1
+        },
+        {
+            "start_time": 13.1,
+            "word": "trackpad",
+            "end_time": 13.6
+        },
+        {
+            "start_time": 13.6,
+            "word": "try",
+            "end_time": 14.6
+        },
+        {
+            "start_time": 14.6,
+            "word": "to",
+            "end_time": 14.8
+        },
+        {
+            "start_time": 14.8,
+            "word": "roll",
+            "end_time": 15.5
+        },
+        {
+            "start_time": 15.5,
+            "word": "try",
+            "end_time": 15.8
+        },
+        {
+            "start_time": 15.8,
+            "word": "to",
+            "end_time": 15.9
+        },
+        {
+            "start_time": 15.9,
+            "word": "scroll",
+            "end_time": 16.2
+        },
+        {
+            "start_time": 16.2,
+            "word": "to",
+            "end_time": 16.5
+        },
+        {
+            "start_time": 16.5,
+            "word": "the",
+            "end_time": 16.7
+        },
+        {
+            "start_time": 16.7,
+            "word": "change",
+            "end_time": 16.9
+        },
+        {
+            "start_time": 16.9,
+            "word": "password",
+            "end_time": 17.1
+        },
+        {
+            "start_time": 17.1,
+            "word": "area",
+            "end_time": 17.6
+        },
+        {
+            "start_time": 17.6,
+            "word": "You",
+            "end_time": 17.6
+        },
+        {
+            "start_time": 17.6,
+            "word": "can't",
+            "end_time": 18.1
+        },
+        {
+            "start_time": 18.1,
+            "word": "which",
+            "end_time": 19.2
+        },
+        {
+            "start_time": 19.2,
+            "word": "is",
+            "end_time": 19.4
+        },
+        {
+            "start_time": 19.4,
+            "word": "the",
+            "end_time": 19.5
+        },
+        {
+            "start_time": 19.5,
+            "word": "same",
+            "end_time": 19.8
+        },
+        {
+            "start_time": 19.8,
+            "word": "thing",
+            "end_time": 19.9
+        },
+        {
+            "start_time": 19.9,
+            "word": "in",
+            "end_time": 20.1
+        }
+    ],
+    "start_time": 1546457639.73,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457659.83,
+    "confidence": 0.8916806,
+    "message": "Well I think the issue for the web version right now that I think electron and the web I have the same issue you go to account settings to make the window kind of small and don't use your trackpad try to roll try to scroll to the change password area You can't which is the same thing in ",
+    "client_id": 1546457639,
+    "duration": 20.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

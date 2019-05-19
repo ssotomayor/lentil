@@ -1,0 +1,108 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "HQAHEGgBZ7hj24wCCHFD",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Just",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "hoping",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "it",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "would",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "be",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "at",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "the",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "bottom",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "middle",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "or",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "near",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "the",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "top",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "You",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "know",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "what",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "I",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "mean",
+            "end_time": 3.1
+        }
+    ],
+    "start_time": 1546457067.1,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457070.199,
+    "confidence": 0.8639516,
+    "message": "Just hoping it would be at the bottom middle or near the top You know what I mean ",
+    "client_id": 1546457067,
+    "duration": 3.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

@@ -1,0 +1,23 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "VwAUEGgBZ7hj24wCz3HK",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Optima",
+            "end_time": 1.4
+        }
+    ],
+    "start_time": 1546457966.93,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457968.329,
+    "confidence": 0.7340083,
+    "message": "Optima",
+    "client_id": 1546457966,
+    "duration": 1.4,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

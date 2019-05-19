@@ -1,0 +1,88 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "jAAfEGgBZ7hj24wCnXGO",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "it",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "should",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "it",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "should",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "it",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "should",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "show",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "a",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "point",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.1,
+            "word": "but",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "the",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "video",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "button",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "is",
+            "end_time": 6.1
+        }
+    ],
+    "start_time": 1546458672.38,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458678.479,
+    "confidence": 0.8397303,
+    "message": "it should it should it should show a point but the video button is",
+    "client_id": 1546458672,
+    "duration": 6.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

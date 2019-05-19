@@ -1,0 +1,73 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "T7QXEGgBWaF1niLUPFbq",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "maybe",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "we",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "should",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "get",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "rid",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "of",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "that",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "extra",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "menu",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "bar",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "than",
+            "end_time": 3.2
+        }
+    ],
+    "start_time": 1546458128.29,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458131.49,
+    "confidence": 0.82711756,
+    "message": "maybe we should get rid of that extra menu bar than",
+    "client_id": 1546458128,
+    "duration": 3.2,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

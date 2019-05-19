@@ -1,0 +1,68 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "-bQGEGgBWaF1niLUk1U4",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "It's",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "fixed",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "Okay",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "go",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "ahead",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "and",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "hide",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "that",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "rather",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "than",
+            "end_time": 5.1
+        }
+    ],
+    "start_time": 1546457032.84,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457037.939,
+    "confidence": 0.8209928,
+    "message": "It's fixed Okay go ahead and hide that rather than",
+    "client_id": 1546457032,
+    "duration": 5.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

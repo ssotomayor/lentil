@@ -1,0 +1,248 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "87QFEGgBWaF1niLUMFVh",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "When",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "I",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "can",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "help",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "protest",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "and",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "maybe",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "the",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "best",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "thing",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "to",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "do",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "is",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "I",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "retested",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "and",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "maybe",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "I'll",
+            "end_time": 4.0
+        },
+        {
+            "start_time": 4.0,
+            "word": "just",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "help",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "you",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "find",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "it",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "and",
+            "end_time": 5.2
+        },
+        {
+            "start_time": 5.2,
+            "word": "I",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "can",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "even",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "take",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "it",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "on",
+            "end_time": 6.5
+        },
+        {
+            "start_time": 6.7,
+            "word": "I",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "mean",
+            "end_time": 6.9
+        },
+        {
+            "start_time": 6.9,
+            "word": "I",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "was",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "doing",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "a",
+            "end_time": 7.3
+        },
+        {
+            "start_time": 7.3,
+            "word": "lot",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "of",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "this",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "work",
+            "end_time": 7.7
+        },
+        {
+            "start_time": 7.7,
+            "word": "by",
+            "end_time": 7.9
+        },
+        {
+            "start_time": 7.9,
+            "word": "the",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "way",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "on",
+            "end_time": 8.4
+        },
+        {
+            "start_time": 8.4,
+            "word": "the",
+            "end_time": 8.5
+        },
+        {
+            "start_time": 8.5,
+            "word": "weekends",
+            "end_time": 8.9
+        }
+    ],
+    "start_time": 1546456944.89,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456953.789,
+    "confidence": 0.8710342,
+    "message": "When I can help protest and maybe the best thing to do is I retested and maybe I'll just help you find it and I can even take it on I mean I was doing a lot of this work by the way on the weekends ",
+    "client_id": 1546456944,
+    "duration": 8.9,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

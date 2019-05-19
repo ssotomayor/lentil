@@ -1,0 +1,73 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "fgAcEGgBZ7hj24wCu3E8",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "When",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "I",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "got",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "started",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "I",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "think",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "row",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "61",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "check",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "on",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "staging",
+            "end_time": 5.5
+        }
+    ],
+    "start_time": 1546458488.69,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458494.19,
+    "confidence": 0.87281126,
+    "message": "When I got started I think row 61 check on staging ",
+    "client_id": 1546458488,
+    "duration": 5.5,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

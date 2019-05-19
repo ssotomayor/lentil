@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "v7T2D2gBWaF1niLUO1VB",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Max",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "the",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "office",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "How's",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "your",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "knee",
+            "end_time": 4.6
+        }
+    ],
+    "start_time": 1546455965.42,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546455970.019,
+    "confidence": 0.87001973,
+    "message": "Max the office How's your knee ",
+    "client_id": 1546455965,
+    "duration": 4.6,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

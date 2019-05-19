@@ -1,0 +1,53 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "BQABEGgBZ7hj24wCfnE4",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "This",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "was",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "a",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "big",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "State",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "game",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "right",
+            "end_time": 1.6
+        }
+    ],
+    "start_time": 1546456703.63,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456705.23,
+    "confidence": 0.8117353,
+    "message": "This was a big State game right ",
+    "client_id": 1546456703,
+    "duration": 1.6,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

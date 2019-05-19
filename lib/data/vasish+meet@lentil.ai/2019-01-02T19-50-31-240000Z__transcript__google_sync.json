@@ -1,0 +1,78 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "iQAeEGgBZ7hj24wC-XF8",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "And",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "join",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "the",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "meeting",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "I",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "get",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "a",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "permanent",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "spinner",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "on",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "the",
+            "end_time": 4.0
+        },
+        {
+            "start_time": 4.0,
+            "word": "user",
+            "end_time": 4.3
+        }
+    ],
+    "start_time": 1546458631.24,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458635.54,
+    "confidence": 0.84678453,
+    "message": "And join the meeting I get a permanent spinner on the user ",
+    "client_id": 1546458631,
+    "duration": 4.3,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

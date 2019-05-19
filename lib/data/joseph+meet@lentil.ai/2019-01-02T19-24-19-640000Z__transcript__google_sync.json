@@ -1,0 +1,43 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "GwAHEGgBZ7hj24wCCHFD",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "That's",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "what",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "you",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "want",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "man",
+            "end_time": 1.0
+        }
+    ],
+    "start_time": 1546457059.64,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457060.64,
+    "confidence": 0.8547107,
+    "message": "That's what you want man ",
+    "client_id": 1546457059,
+    "duration": 1.0,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

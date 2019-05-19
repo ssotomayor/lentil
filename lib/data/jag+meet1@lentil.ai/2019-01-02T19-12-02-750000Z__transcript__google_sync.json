@@ -1,0 +1,108 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "8QD7D2gBZ7hj24wCrXDc",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "It",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "was",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "obvious",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "I'm",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "just",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "confused",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "because",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "I",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "like",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "let's",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "go",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "to",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "all",
+            "end_time": 3.4
+        },
+        {
+            "start_time": 3.4,
+            "word": "the",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "conference",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "though",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "Gabba",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "Gabba",
+            "end_time": 4.5
+        }
+    ],
+    "start_time": 1546456322.75,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456327.25,
+    "confidence": 0.860863,
+    "message": "It was obvious I'm just confused because I like let's go to all the conference though Gabba Gabba ",
+    "client_id": 1546456322,
+    "duration": 4.5,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

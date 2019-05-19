@@ -1,0 +1,33 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "CrQLEGgBWaF1niLUP1Z3",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "All",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "right",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "Kyle",
+            "end_time": 0.6
+        }
+    ],
+    "start_time": 1546457342.36,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457342.96,
+    "confidence": 0.6589936,
+    "message": "All right Kyle ",
+    "client_id": 1546457342,
+    "duration": 0.6,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

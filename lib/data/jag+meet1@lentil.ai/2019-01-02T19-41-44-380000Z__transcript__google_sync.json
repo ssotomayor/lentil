@@ -1,0 +1,83 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "TbQWEGgBWaF1niLU31Yp",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Just",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "go",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "staging",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "and",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "private",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "right",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "now",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "You",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "can",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "you",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "can",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "see",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "everything",
+            "end_time": 3.0
+        }
+    ],
+    "start_time": 1546458104.38,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458107.38,
+    "confidence": 0.8623654,
+    "message": "Just go staging and private right now You can you can see everything ",
+    "client_id": 1546458104,
+    "duration": 3.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

@@ -1,0 +1,63 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "bAAZEGgBZ7hj24wCOXF6",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "How",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "do",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "you",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "create",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "a",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "public",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "room",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "right",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "now",
+            "end_time": 1.5
+        }
+    ],
+    "start_time": 1546458255.28,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458256.78,
+    "confidence": 0.8930713,
+    "message": "How do you create a public room right now ",
+    "client_id": 1546458255,
+    "duration": 1.5,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

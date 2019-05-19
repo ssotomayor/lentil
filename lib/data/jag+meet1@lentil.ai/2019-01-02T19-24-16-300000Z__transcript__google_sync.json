@@ -1,0 +1,73 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "_LQGEGgBWaF1niLU5VUa",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "It's",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "okay",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "on",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "stage",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "and",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "I",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "just",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "tested",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "its",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "till",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "tomorrow",
+            "end_time": 2.6
+        }
+    ],
+    "start_time": 1546457056.3,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457058.899,
+    "confidence": 0.84176636,
+    "message": "It's okay on stage and I just tested its till tomorrow ",
+    "client_id": 1546457056,
+    "duration": 2.6,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

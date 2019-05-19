@@ -1,0 +1,28 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "ybT5D2gBWaF1niLUe1VU",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "when",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "Contessa",
+            "end_time": 0.8
+        }
+    ],
+    "start_time": 1546456174.05,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456174.85,
+    "confidence": 0.65094435,
+    "message": "when Contessa",
+    "client_id": 1546456174,
+    "duration": 0.8,
+    "email": "rolf+meet@lentil.ai",
+    "user_id": "f722029c-4cff-4e51-8e7b-937a4ca2094f"
+}

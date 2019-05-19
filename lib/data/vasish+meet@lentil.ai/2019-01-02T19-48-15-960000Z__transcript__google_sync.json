@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "aLQcEGgBWaF1niLU01b-",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Think",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "so",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "wrong",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "for",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "their",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "thighs",
+            "end_time": 1.6
+        }
+    ],
+    "start_time": 1546458495.96,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458497.56,
+    "confidence": 0.70791,
+    "message": "Think so wrong for their thighs ",
+    "client_id": 1546458495,
+    "duration": 1.6,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

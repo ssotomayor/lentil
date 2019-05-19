@@ -1,0 +1,38 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "LwAMEGgBZ7hj24wC-3GK",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "What's",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "up",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "this",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "ticket",
+            "end_time": 3.3
+        }
+    ],
+    "start_time": 1546457456.73,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457460.029,
+    "confidence": 0.8707401,
+    "message": "What's up this ticket ",
+    "client_id": 1546457456,
+    "duration": 3.3,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

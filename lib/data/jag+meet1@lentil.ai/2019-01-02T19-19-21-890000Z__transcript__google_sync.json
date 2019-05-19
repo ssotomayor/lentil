@@ -1,0 +1,138 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "CAACEGgBZ7hj24wCZnFR",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Okay",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "Well",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "exceptions",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "are",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "probably",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "not",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "normal",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "So",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "I",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "don't",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "know",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "we",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "should",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 5.4,
+            "word": "if",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "you",
+            "end_time": 6.3
+        },
+        {
+            "start_time": 6.3,
+            "word": "have",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "a",
+            "end_time": 6.5
+        },
+        {
+            "start_time": 6.5,
+            "word": "trace",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "there",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "you",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "have",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "the",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "whole",
+            "end_time": 7.7
+        },
+        {
+            "start_time": 7.7,
+            "word": "stack",
+            "end_time": 8.0
+        }
+    ],
+    "start_time": 1546456761.89,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456769.89,
+    "confidence": 0.8673117,
+    "message": "Okay Well exceptions are probably not normal So I don't know we should if you have a trace there you have the whole stack ",
+    "client_id": 1546456761,
+    "duration": 8.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

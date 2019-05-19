@@ -1,0 +1,228 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "CwADEGgBZ7hj24wCAHH1",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Yeah",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "I",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "think",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "I",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "think",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "it's",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "just",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "hard",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "If",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "somebody",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "else",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "we",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "can",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "issue",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "I",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "think",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "you",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "need",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "to",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "describe",
+            "end_time": 5.8
+        },
+        {
+            "start_time": 5.8,
+            "word": "the",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "exact",
+            "end_time": 6.6
+        },
+        {
+            "start_time": 6.6,
+            "word": "actions",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "taken",
+            "end_time": 7.9
+        },
+        {
+            "start_time": 7.9,
+            "word": "and",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "the",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "specific",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "time",
+            "end_time": 9.1
+        },
+        {
+            "start_time": 9.1,
+            "word": "The",
+            "end_time": 9.2
+        },
+        {
+            "start_time": 9.2,
+            "word": "problem",
+            "end_time": 9.6
+        },
+        {
+            "start_time": 9.6,
+            "word": "was",
+            "end_time": 9.9
+        },
+        {
+            "start_time": 9.9,
+            "word": "because",
+            "end_time": 10.5
+        },
+        {
+            "start_time": 10.5,
+            "word": "it's",
+            "end_time": 11.1
+        },
+        {
+            "start_time": 11.1,
+            "word": "hard",
+            "end_time": 11.5
+        },
+        {
+            "start_time": 11.5,
+            "word": "to",
+            "end_time": 11.6
+        },
+        {
+            "start_time": 11.6,
+            "word": "be",
+            "end_time": 13.2
+        },
+        {
+            "start_time": 13.2,
+            "word": "bugs",
+            "end_time": 13.5
+        },
+        {
+            "start_time": 13.5,
+            "word": "with",
+            "end_time": 13.7
+        },
+        {
+            "start_time": 13.7,
+            "word": "putting",
+            "end_time": 14.1
+        },
+        {
+            "start_time": 14.1,
+            "word": "in",
+            "end_time": 14.3
+        },
+        {
+            "start_time": 14.3,
+            "word": "general",
+            "end_time": 14.7
+        },
+        {
+            "start_time": 14.7,
+            "word": "is",
+            "end_time": 14.8
+        }
+    ],
+    "start_time": 1546456796.29,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456811.09,
+    "confidence": 0.84345466,
+    "message": "Yeah I think I think it's just hard If somebody else we can issue I think you need to describe the exact actions taken and the specific time The problem was because it's hard to be bugs with putting in general is",
+    "client_id": 1546456796,
+    "duration": 14.8,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

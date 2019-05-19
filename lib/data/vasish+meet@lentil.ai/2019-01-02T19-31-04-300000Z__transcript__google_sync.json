@@ -1,0 +1,218 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "EbQNEGgBWaF1niLUHlbv",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "She",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "steered",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "that's",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "right",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "You",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "do",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "this",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "and",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "he",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "said",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "that",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "it's",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "old",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "code",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.3,
+            "word": "It",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "was",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "clear",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "That",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "was",
+            "end_time": 5.5
+        },
+        {
+            "start_time": 5.5,
+            "word": "a",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "conflict",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "interest",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "CSS",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "or",
+            "end_time": 8.5
+        },
+        {
+            "start_time": 8.5,
+            "word": "the",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "same",
+            "end_time": 11.3
+        },
+        {
+            "start_time": 11.3,
+            "word": "that",
+            "end_time": 12.8
+        },
+        {
+            "start_time": 12.8,
+            "word": "affects",
+            "end_time": 13.2
+        },
+        {
+            "start_time": 13.2,
+            "word": "Electronics",
+            "end_time": 13.6
+        },
+        {
+            "start_time": 13.6,
+            "word": "of",
+            "end_time": 14.3
+        },
+        {
+            "start_time": 14.3,
+            "word": "the",
+            "end_time": 14.4
+        },
+        {
+            "start_time": 14.4,
+            "word": "way",
+            "end_time": 14.5
+        },
+        {
+            "start_time": 14.5,
+            "word": "We",
+            "end_time": 14.6
+        },
+        {
+            "start_time": 14.6,
+            "word": "do",
+            "end_time": 14.7
+        },
+        {
+            "start_time": 14.7,
+            "word": "CSS",
+            "end_time": 15.2
+        },
+        {
+            "start_time": 15.2,
+            "word": "to",
+            "end_time": 17.9
+        },
+        {
+            "start_time": 17.9,
+            "word": "remove",
+            "end_time": 18.3
+        },
+        {
+            "start_time": 18.3,
+            "word": "the",
+            "end_time": 18.3
+        },
+        {
+            "start_time": 18.3,
+            "word": "old",
+            "end_time": 18.6
+        },
+        {
+            "start_time": 18.6,
+            "word": "definition",
+            "end_time": 21.2
+        }
+    ],
+    "start_time": 1546457464.3,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457485.5,
+    "confidence": 0.8916651,
+    "message": "She steered that's right You do this and he said that it's old code It was clear That was a conflict interest CSS or the same that affects Electronics of the way We do CSS to remove the old definition ",
+    "client_id": 1546457464,
+    "duration": 21.2,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

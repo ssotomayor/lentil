@@ -1,0 +1,183 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "5bQCEGgBWaF1niLUClXZ",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Well",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "I",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "mean",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "I",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "I",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "can",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "retest",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "because",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "there's",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "a",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "lot",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "of",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "issues",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "and",
+            "end_time": 4.0
+        },
+        {
+            "start_time": 4.0,
+            "word": "I",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "just",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "loved",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "it",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "It",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.1,
+            "word": "was",
+            "end_time": 5.2
+        },
+        {
+            "start_time": 5.2,
+            "word": "so",
+            "end_time": 5.2
+        },
+        {
+            "start_time": 5.2,
+            "word": "broken",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 6.0,
+            "word": "So",
+            "end_time": 6.7
+        },
+        {
+            "start_time": 6.7,
+            "word": "maybe",
+            "end_time": 6.9
+        },
+        {
+            "start_time": 6.9,
+            "word": "it",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "works",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "Just",
+            "end_time": 7.3
+        },
+        {
+            "start_time": 7.3,
+            "word": "retesting",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "Maybe",
+            "end_time": 9.0
+        },
+        {
+            "start_time": 9.0,
+            "word": "that's",
+            "end_time": 9.2
+        },
+        {
+            "start_time": 9.2,
+            "word": "the",
+            "end_time": 9.2
+        },
+        {
+            "start_time": 9.2,
+            "word": "next",
+            "end_time": 9.3
+        },
+        {
+            "start_time": 9.3,
+            "word": "action",
+            "end_time": 9.6
+        }
+    ],
+    "start_time": 1546456735.03,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456744.63,
+    "confidence": 0.86773306,
+    "message": "Well I mean I I can retest because there's a lot of issues and I just loved it It was so broken So maybe it works Just retesting Maybe that's the next action ",
+    "client_id": 1546456735,
+    "duration": 9.6,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

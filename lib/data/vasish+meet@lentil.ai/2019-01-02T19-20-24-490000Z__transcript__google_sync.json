@@ -1,0 +1,43 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "DAADEGgBZ7hj24wCU3FL",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "You",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "see",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "you",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "talking",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "about",
+            "end_time": 1.9
+        }
+    ],
+    "start_time": 1546456824.49,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456826.389,
+    "confidence": 0.76292706,
+    "message": "You see you talking about ",
+    "client_id": 1546456824,
+    "duration": 1.9,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

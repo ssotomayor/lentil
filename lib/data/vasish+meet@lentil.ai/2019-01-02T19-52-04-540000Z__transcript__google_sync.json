@@ -1,0 +1,153 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "kgAgEGgBZ7hj24wCWXER",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Don't",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "you",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "know",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "it's",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "faulty",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "Just",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "whatever",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "reason",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "it",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "didn't",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "open",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "Live",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "segmentation",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "events",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "before",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "conference",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "or",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "get",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "rid",
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "word": "of",
+            "end_time": 8.4
+        },
+        {
+            "start_time": 8.4,
+            "word": "74",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "result",
+            "end_time": 9.3
+        },
+        {
+            "start_time": 9.3,
+            "word": "locally",
+            "end_time": 9.8
+        },
+        {
+            "start_time": 9.8,
+            "word": "roasted",
+            "end_time": 10.7
+        },
+        {
+            "start_time": 10.7,
+            "word": "B5",
+            "end_time": 11.6
+        },
+        {
+            "start_time": 11.6,
+            "word": "is",
+            "end_time": 11.9
+        },
+        {
+            "start_time": 11.9,
+            "word": "PR",
+            "end_time": 12.4
+        }
+    ],
+    "start_time": 1546458724.54,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458736.939,
+    "confidence": 0.8653903,
+    "message": "Don't you know it's faulty Just whatever reason it didn't open Live segmentation events before conference or get rid of 74 result locally roasted B5 is PR ",
+    "client_id": 1546458724,
+    "duration": 12.4,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

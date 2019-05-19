@@ -1,0 +1,168 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "UAATEGgBZ7hj24wC2HEh",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Elia",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "creating",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "an",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "account",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "for",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "you",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "that's",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "grab",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "from",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "your",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "other",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "species",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "You",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "can",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "speak",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "with",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "if",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "we",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "grab",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "the",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "OS",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "we",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "grab",
+            "end_time": 5.5
+        },
+        {
+            "start_time": 5.5,
+            "word": "the",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "time",
+            "end_time": 5.8
+        },
+        {
+            "start_time": 5.8,
+            "word": "talking",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "to",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "all",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "of",
+            "end_time": 6.3
+        },
+        {
+            "start_time": 6.3,
+            "word": "us",
+            "end_time": 6.4
+        }
+    ],
+    "start_time": 1546457906.32,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457912.72,
+    "confidence": 0.86530435,
+    "message": "Elia creating an account for you that's grab from your other species You can speak with if we grab the OS we grab the time talking to all of us ",
+    "client_id": 1546457906,
+    "duration": 6.4,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

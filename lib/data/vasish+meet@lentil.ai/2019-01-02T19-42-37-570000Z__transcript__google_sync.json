@@ -1,0 +1,83 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "ZQAXEGgBZ7hj24wCyXFk",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Yeah",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "we",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "could",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "remove",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "it",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "from",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "settings",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 2.0,
+            "word": "Maybe",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "that",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "will",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "address",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "the",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "issue",
+            "end_time": 3.3
+        }
+    ],
+    "start_time": 1546458157.57,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458160.869,
+    "confidence": 0.8051383,
+    "message": "Yeah we could remove it from settings Maybe that will address the issue ",
+    "client_id": 1546458157,
+    "duration": 3.3,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

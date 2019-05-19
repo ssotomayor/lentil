@@ -1,0 +1,43 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "TwATEGgBZ7hj24wCnXGi",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Teaching",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "them",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "only",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "hours",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "though",
+            "end_time": 2.0
+        }
+    ],
+    "start_time": 1546457892.07,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457894.07,
+    "confidence": 0.660269,
+    "message": "Teaching them only hours though ",
+    "client_id": 1546457892,
+    "duration": 2.0,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

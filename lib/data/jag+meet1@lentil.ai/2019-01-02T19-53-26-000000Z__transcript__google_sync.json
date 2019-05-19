@@ -1,0 +1,193 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "lgAhEGgBZ7hj24wClnEi",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "We",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "want",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "to",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "get",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "to",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "the",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "point",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "We're",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "not",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "spending",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "53",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "minutes",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "on",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "a",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "call",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "gonna",
+            "end_time": 3.4
+        },
+        {
+            "start_time": 3.4,
+            "word": "get",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "status",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "So",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "how",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "do",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "we",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "speed",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "it",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "up",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "to",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "get",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "more",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "of",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "these",
+            "end_time": 7.7
+        },
+        {
+            "start_time": 7.7,
+            "word": "clothes",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "to",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "move",
+            "end_time": 9.5
+        },
+        {
+            "start_time": 9.5,
+            "word": "into",
+            "end_time": 9.7
+        },
+        {
+            "start_time": 9.7,
+            "word": "jira",
+            "end_time": 10.0
+        }
+    ],
+    "start_time": 1546458806.0,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458816.0,
+    "confidence": 0.8699226,
+    "message": "We want to get to the point We're not spending 53 minutes on a call gonna get status So how do we speed it up to get more of these clothes to move into jira ",
+    "client_id": 1546458806,
+    "duration": 10.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

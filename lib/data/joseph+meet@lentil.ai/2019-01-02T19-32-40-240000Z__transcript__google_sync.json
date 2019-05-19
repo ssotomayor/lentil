@@ -1,0 +1,103 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "NAAOEGgBZ7hj24wCk3Gw",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "No",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "it's",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "just",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "redesigning",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "all",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "our",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "screens",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "that",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "are",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "assessing",
+            "end_time": 5.5
+        },
+        {
+            "start_time": 5.5,
+            "word": "all",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "our",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "screens",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "that",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "have",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "this",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "problem",
+            "end_time": 6.6
+        }
+    ],
+    "start_time": 1546457560.24,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457566.839,
+    "confidence": 0.86329085,
+    "message": "No it's just redesigning all our screens that are assessing all our screens that have this problem ",
+    "client_id": 1546457560,
+    "duration": 6.6,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

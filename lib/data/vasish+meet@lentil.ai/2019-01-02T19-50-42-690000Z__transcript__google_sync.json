@@ -1,0 +1,248 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "crQfEGgBWaF1niLUHFbx",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "The",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "campus",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "regardless",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "right",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "So",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "it's",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "I",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "mean",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "I'm",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "here",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "maybe",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "works",
+            "end_time": 5.8
+        },
+        {
+            "start_time": 5.8,
+            "word": "is",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "probably",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "a",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "bad",
+            "end_time": 6.3
+        },
+        {
+            "start_time": 6.3,
+            "word": "driver",
+            "end_time": 6.9
+        },
+        {
+            "start_time": 6.9,
+            "word": "or",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "something",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "like",
+            "end_time": 7.3
+        },
+        {
+            "start_time": 7.3,
+            "word": "that",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "But",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "I",
+            "end_time": 7.7
+        },
+        {
+            "start_time": 7.7,
+            "word": "do",
+            "end_time": 7.8
+        },
+        {
+            "start_time": 7.8,
+            "word": "get",
+            "end_time": 7.9
+        },
+        {
+            "start_time": 7.9,
+            "word": "a",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "notification",
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "word": "that",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "we",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "were",
+            "end_time": 9.1
+        },
+        {
+            "start_time": 9.1,
+            "word": "unable",
+            "end_time": 9.2
+        },
+        {
+            "start_time": 9.2,
+            "word": "to",
+            "end_time": 9.4
+        },
+        {
+            "start_time": 9.4,
+            "word": "fetch",
+            "end_time": 9.7
+        },
+        {
+            "start_time": 9.7,
+            "word": "your",
+            "end_time": 9.8
+        },
+        {
+            "start_time": 9.8,
+            "word": "camera",
+            "end_time": 10.1
+        },
+        {
+            "start_time": 10.1,
+            "word": "like",
+            "end_time": 10.9
+        },
+        {
+            "start_time": 10.9,
+            "word": "lentil",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "Does",
+            "end_time": 11.4
+        },
+        {
+            "start_time": 11.4,
+            "word": "that",
+            "end_time": 11.5
+        },
+        {
+            "start_time": 11.5,
+            "word": "part",
+            "end_time": 11.8
+        },
+        {
+            "start_time": 11.8,
+            "word": "right",
+            "end_time": 12.0
+        },
+        {
+            "start_time": 12.0,
+            "word": "So",
+            "end_time": 12.1
+        },
+        {
+            "start_time": 12.1,
+            "word": "you're",
+            "end_time": 12.3
+        },
+        {
+            "start_time": 12.3,
+            "word": "detecting",
+            "end_time": 12.6
+        },
+        {
+            "start_time": 12.6,
+            "word": "that",
+            "end_time": 13.7
+        },
+        {
+            "start_time": 13.7,
+            "word": "you",
+            "end_time": 13.8
+        }
+    ],
+    "start_time": 1546458642.69,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458656.49,
+    "confidence": 0.8683295,
+    "message": "The campus regardless right So it's I mean I'm here maybe works is probably a bad driver or something like that But I do get a notification that we were unable to fetch your camera like lentil Does that part right So you're detecting that you",
+    "client_id": 1546458642,
+    "duration": 13.8,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

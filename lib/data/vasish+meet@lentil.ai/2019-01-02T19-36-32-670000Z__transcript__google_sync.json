@@ -1,0 +1,173 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "LLQSEGgBWaF1niLUKFYR",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "We",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "pull",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "up",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "I",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "believe",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "there",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "was",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "some",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "chat",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "messages",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "out",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "of",
+            "end_time": 4.0
+        },
+        {
+            "start_time": 4.0,
+            "word": "order",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "or",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "he",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "thought",
+            "end_time": 5.8
+        },
+        {
+            "start_time": 5.8,
+            "word": "he",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "thought",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "the",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "times",
+            "end_time": 6.9
+        },
+        {
+            "start_time": 6.9,
+            "word": "weren't",
+            "end_time": 7.1
+        },
+        {
+            "start_time": 7.1,
+            "word": "reflecting",
+            "end_time": 7.7
+        },
+        {
+            "start_time": 7.7,
+            "word": "of",
+            "end_time": 7.8
+        },
+        {
+            "start_time": 7.8,
+            "word": "actual",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "time",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "There's",
+            "end_time": 10.1
+        },
+        {
+            "start_time": 10.1,
+            "word": "a",
+            "end_time": 10.2
+        },
+        {
+            "start_time": 10.2,
+            "word": "time",
+            "end_time": 10.5
+        },
+        {
+            "start_time": 10.5,
+            "word": "zone",
+            "end_time": 10.6
+        },
+        {
+            "start_time": 10.6,
+            "word": "related",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "thing",
+            "end_time": 11.3
+        }
+    ],
+    "start_time": 1546457792.67,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457803.97,
+    "confidence": 0.8582701,
+    "message": "We pull up I believe there was some chat messages out of order or he thought he thought the times weren't reflecting of actual time There's a time zone related thing ",
+    "client_id": 1546457792,
+    "duration": 11.3,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

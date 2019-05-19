@@ -1,0 +1,33 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "cbQfEGgBWaF1niLUHFbx",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "or",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "the",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "webcam",
+            "end_time": 0.7
+        }
+    ],
+    "start_time": 1546458642.27,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458642.969,
+    "confidence": 0.79359704,
+    "message": "or the webcam",
+    "client_id": 1546458642,
+    "duration": 0.7,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

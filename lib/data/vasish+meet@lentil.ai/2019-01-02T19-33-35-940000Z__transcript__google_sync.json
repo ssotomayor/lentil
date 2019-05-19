@@ -1,0 +1,68 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "OAAPEGgBZ7hj24wCaXHD",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "So",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "this",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "is",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "really",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "just",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "auditing",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "the",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "site",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "right",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "Joseph",
+            "end_time": 4.6
+        }
+    ],
+    "start_time": 1546457615.94,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457620.539,
+    "confidence": 0.8664156,
+    "message": "So this is really just auditing the site right Joseph ",
+    "client_id": 1546457615,
+    "duration": 4.6,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

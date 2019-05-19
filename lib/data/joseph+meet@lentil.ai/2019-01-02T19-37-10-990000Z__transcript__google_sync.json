@@ -1,0 +1,23 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "L7QSEGgBWaF1niLUzFYj",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "well",
+            "end_time": 0.9
+        }
+    ],
+    "start_time": 1546457830.99,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457831.889,
+    "confidence": 0.8436784,
+    "message": "well",
+    "client_id": 1546457830,
+    "duration": 0.9,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

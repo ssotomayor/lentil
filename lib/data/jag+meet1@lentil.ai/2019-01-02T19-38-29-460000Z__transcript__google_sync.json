@@ -1,0 +1,58 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "N7QTEGgBWaF1niLU_FbW",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "You",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "have",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "to",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "you",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "have",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "to",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "type",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "notes",
+            "end_time": 3.4
+        }
+    ],
+    "start_time": 1546457909.46,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457912.86,
+    "confidence": 0.71744734,
+    "message": "You have to you have to type notes ",
+    "client_id": 1546457909,
+    "duration": 3.4,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

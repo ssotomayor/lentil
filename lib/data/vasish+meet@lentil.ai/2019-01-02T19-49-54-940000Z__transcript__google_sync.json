@@ -1,0 +1,93 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "hAAeEGgBZ7hj24wCbHHa",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Okay",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "reduced",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "Echelon",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "close",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "up",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "and",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "Jog",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "right",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "row",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "72",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "after",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "stress",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "Test",
+            "end_time": 6.5
+        },
+        {
+            "start_time": 6.5,
+            "word": "Route",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "73",
+            "end_time": 7.4
+        }
+    ],
+    "start_time": 1546458594.94,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458602.34,
+    "confidence": 0.81799227,
+    "message": "Okay reduced Echelon close up and Jog right row 72 after stress Test Route 73 ",
+    "client_id": 1546458594,
+    "duration": 7.4,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

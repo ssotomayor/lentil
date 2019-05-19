@@ -1,0 +1,318 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "5AD4D2gBZ7hj24wCPnDo",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "CSS",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "won't",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "do",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "it",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "It'll",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "you",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "can",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "prevent",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "the",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "browser",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "window",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "side",
+            "end_time": 4.8
+        },
+        {
+            "start_time": 4.8,
+            "word": "from",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "CSS",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "I",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "didn't",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "know",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "you",
+            "end_time": 6.3
+        },
+        {
+            "start_time": 6.3,
+            "word": "could",
+            "end_time": 6.4
+        },
+        {
+            "start_time": 6.4,
+            "word": "do",
+            "end_time": 6.6
+        },
+        {
+            "start_time": 6.6,
+            "word": "that",
+            "end_time": 6.6
+        },
+        {
+            "start_time": 6.6,
+            "word": "I",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "would",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "just",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "do",
+            "end_time": 7.8
+        },
+        {
+            "start_time": 7.8,
+            "word": "it",
+            "end_time": 8.0
+        },
+        {
+            "start_time": 8.0,
+            "word": "in",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "Maine",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "dep",
+            "end_time": 9.3
+        },
+        {
+            "start_time": 9.3,
+            "word": "We",
+            "end_time": 9.4
+        },
+        {
+            "start_time": 9.4,
+            "word": "said",
+            "end_time": 9.8
+        },
+        {
+            "start_time": 9.8,
+            "word": "that",
+            "end_time": 9.9
+        },
+        {
+            "start_time": 9.9,
+            "word": "were",
+            "end_time": 10.2
+        },
+        {
+            "start_time": 10.2,
+            "word": "consistent",
+            "end_time": 11.7
+        },
+        {
+            "start_time": 12.0,
+            "word": "You",
+            "end_time": 12.5
+        },
+        {
+            "start_time": 12.5,
+            "word": "don't",
+            "end_time": 12.6
+        },
+        {
+            "start_time": 12.6,
+            "word": "want",
+            "end_time": 12.8
+        },
+        {
+            "start_time": 12.8,
+            "word": "to",
+            "end_time": 12.8
+        },
+        {
+            "start_time": 12.8,
+            "word": "have",
+            "end_time": 12.9
+        },
+        {
+            "start_time": 12.9,
+            "word": "a",
+            "end_time": 13.0
+        },
+        {
+            "start_time": 13.0,
+            "word": "different",
+            "end_time": 13.2
+        },
+        {
+            "start_time": 13.2,
+            "word": "for",
+            "end_time": 13.7
+        },
+        {
+            "start_time": 13.7,
+            "word": "conference",
+            "end_time": 15.5
+        },
+        {
+            "start_time": 15.5,
+            "word": "view",
+            "end_time": 15.9
+        },
+        {
+            "start_time": 15.9,
+            "word": "versus",
+            "end_time": 16.4
+        },
+        {
+            "start_time": 16.4,
+            "word": "a",
+            "end_time": 16.4
+        },
+        {
+            "start_time": 16.4,
+            "word": "non",
+            "end_time": 16.6
+        },
+        {
+            "start_time": 16.6,
+            "word": "conference",
+            "end_time": 17.0
+        },
+        {
+            "start_time": 17.0,
+            "word": "view",
+            "end_time": 17.4
+        },
+        {
+            "start_time": 17.4,
+            "word": "So",
+            "end_time": 18.8
+        },
+        {
+            "start_time": 18.8,
+            "word": "the",
+            "end_time": 19.0
+        },
+        {
+            "start_time": 19.0,
+            "word": "lobby",
+            "end_time": 20.4
+        },
+        {
+            "start_time": 20.4,
+            "word": "and",
+            "end_time": 20.6
+        },
+        {
+            "start_time": 20.6,
+            "word": "the",
+            "end_time": 20.7
+        },
+        {
+            "start_time": 20.7,
+            "word": "account",
+            "end_time": 21.1
+        },
+        {
+            "start_time": 21.1,
+            "word": "settings",
+            "end_time": 21.3
+        },
+        {
+            "start_time": 21.3,
+            "word": "on",
+            "end_time": 21.5
+        },
+        {
+            "start_time": 21.5,
+            "word": "the",
+            "end_time": 21.6
+        },
+        {
+            "start_time": 21.6,
+            "word": "same",
+            "end_time": 21.8
+        },
+        {
+            "start_time": 21.8,
+            "word": "screen",
+            "end_time": 22.1
+        }
+    ],
+    "start_time": 1546456097.15,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456119.25,
+    "confidence": 0.8972081,
+    "message": "CSS won't do it It'll you can prevent the browser window side from CSS I didn't know you could do that I would just do it in Maine dep We said that were consistent You don't want to have a different for conference view versus a non conference view So the lobby and the account settings on the same screen ",
+    "client_id": 1546456097,
+    "duration": 22.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

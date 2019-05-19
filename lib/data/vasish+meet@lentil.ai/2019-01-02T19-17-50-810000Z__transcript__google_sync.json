@@ -1,0 +1,43 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "4bQAEGgBWaF1niLU_VVN",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Simplifying",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "just",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "always",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "show",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "it",
+            "end_time": 1.8
+        }
+    ],
+    "start_time": 1546456670.81,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456672.609,
+    "confidence": 0.8550825,
+    "message": "Simplifying just always show it ",
+    "client_id": 1546456670,
+    "duration": 1.8,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

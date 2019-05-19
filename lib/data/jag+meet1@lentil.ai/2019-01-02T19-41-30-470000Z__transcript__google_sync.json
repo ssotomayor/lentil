@@ -1,0 +1,88 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "SbQWEGgBWaF1niLUr1Y6",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "No",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "you",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "don't",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "you",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "go",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "right",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "to",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "the",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "second",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "Dialogue",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "on",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "the",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "outer",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "ear",
+            "end_time": 3.2
+        }
+    ],
+    "start_time": 1546458090.47,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458093.67,
+    "confidence": 0.8351752,
+    "message": "No you don't you go right to the second Dialogue on the outer ear ",
+    "client_id": 1546458090,
+    "duration": 3.2,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "K7QSEGgBWaF1niLUKFYR",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "A",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "screenshot",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "what",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "exactly",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "is",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "wrong",
+            "end_time": 2.0
+        }
+    ],
+    "start_time": 1546457787.53,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457789.53,
+    "confidence": 0.80727655,
+    "message": "A screenshot what exactly is wrong ",
+    "client_id": 1546457787,
+    "duration": 2.0,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

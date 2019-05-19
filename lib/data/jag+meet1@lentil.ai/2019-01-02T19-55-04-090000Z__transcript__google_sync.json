@@ -1,0 +1,178 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "gbQjEGgBWaF1niLUGFY6",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "These",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "electron",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "there's",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "a",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "seven",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "or",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "eight",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "electron",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "issues",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.7,
+            "word": "These",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "aren't",
+            "end_time": 6.3
+        },
+        {
+            "start_time": 6.3,
+            "word": "technical",
+            "end_time": 6.7
+        },
+        {
+            "start_time": 6.7,
+            "word": "choir",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "but",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "I",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "need",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "to",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "be",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "fixed",
+            "end_time": 7.9
+        },
+        {
+            "start_time": 7.9,
+            "word": "and",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "we",
+            "end_time": 8.2
+        },
+        {
+            "start_time": 8.2,
+            "word": "separate",
+            "end_time": 8.7
+        },
+        {
+            "start_time": 8.7,
+            "word": "them",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "out",
+            "end_time": 9.0
+        },
+        {
+            "start_time": 9.0,
+            "word": "into",
+            "end_time": 9.1
+        },
+        {
+            "start_time": 9.1,
+            "word": "separate",
+            "end_time": 9.6
+        },
+        {
+            "start_time": 9.6,
+            "word": "ticket",
+            "end_time": 10.6
+        },
+        {
+            "start_time": 10.6,
+            "word": "and",
+            "end_time": 10.7
+        },
+        {
+            "start_time": 10.7,
+            "word": "just",
+            "end_time": 10.7
+        },
+        {
+            "start_time": 10.7,
+            "word": "leave",
+            "end_time": 10.9
+        },
+        {
+            "start_time": 10.9,
+            "word": "them",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "alone",
+            "end_time": 11.5
+        }
+    ],
+    "start_time": 1546458904.09,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458915.59,
+    "confidence": 0.87543064,
+    "message": "These electron there's a seven or eight electron issues These aren't technical choir but I need to be fixed and we separate them out into separate ticket and just leave them alone ",
+    "client_id": 1546458904,
+    "duration": 11.5,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

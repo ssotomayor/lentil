@@ -1,0 +1,193 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "cAAZEGgBZ7hj24wCeXEf",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "It's",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "only",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "these",
+            "end_time": 3.4
+        },
+        {
+            "start_time": 3.4,
+            "word": "great",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "out",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "and",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "you",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "could",
+            "end_time": 4.3
+        },
+        {
+            "start_time": 4.3,
+            "word": "create",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "a",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "whole",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "company",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "for",
+            "end_time": 5.3
+        },
+        {
+            "start_time": 5.3,
+            "word": "now",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "if",
+            "end_time": 5.5
+        },
+        {
+            "start_time": 5.5,
+            "word": "you",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "wanted",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "to",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "Joseph",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "or",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "you",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.4,
+            "word": "put",
+            "end_time": 7.5
+        },
+        {
+            "start_time": 7.5,
+            "word": "that",
+            "end_time": 7.6
+        },
+        {
+            "start_time": 7.6,
+            "word": "logic",
+            "end_time": 8.1
+        },
+        {
+            "start_time": 8.1,
+            "word": "in",
+            "end_time": 8.3
+        },
+        {
+            "start_time": 8.3,
+            "word": "and",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "then",
+            "end_time": 8.9
+        },
+        {
+            "start_time": 8.9,
+            "word": "later",
+            "end_time": 10.6
+        },
+        {
+            "start_time": 10.6,
+            "word": "figure",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "out",
+            "end_time": 10.9
+        },
+        {
+            "start_time": 10.9,
+            "word": "how",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "to",
+            "end_time": 11.1
+        },
+        {
+            "start_time": 11.1,
+            "word": "switch",
+            "end_time": 11.2
+        },
+        {
+            "start_time": 11.2,
+            "word": "rooms",
+            "end_time": 11.4
+        },
+        {
+            "start_time": 11.4,
+            "word": "correct",
+            "end_time": 11.9
+        }
+    ],
+    "start_time": 1546458272.16,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458284.059,
+    "confidence": 0.88613284,
+    "message": "It's only these great out and you could create a whole company for now if you wanted to Joseph or you put that logic in and then later figure out how to switch rooms correct ",
+    "client_id": 1546458272,
+    "duration": 11.9,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lentilai",
+  "version": "1.0.0",
+  "description": "Lentil AI Coding",
+  "main": "index.js",
+  "repository": "https://github.com/Cell-Ed/debug-prompt",
+  "author": "Santiago Sotomayor",
+  "license": "MIT",
+  "dependencies": {
+    "asyncawait": "^1.0.7",
+    "chai": "^4.2.0",
+    "inquirer": "^6.2.0",
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "node ./node_modules/mocha/bin/mocha"
+  }
+}

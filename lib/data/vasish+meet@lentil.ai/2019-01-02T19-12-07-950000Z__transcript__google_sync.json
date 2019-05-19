@@ -1,0 +1,33 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "z7T7D2gBWaF1niLU0VUD",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "all",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "over",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "you",
+            "end_time": 0.8
+        }
+    ],
+    "start_time": 1546456327.95,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456328.75,
+    "confidence": 0.6253149,
+    "message": "all over you",
+    "client_id": 1546456327,
+    "duration": 0.8,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

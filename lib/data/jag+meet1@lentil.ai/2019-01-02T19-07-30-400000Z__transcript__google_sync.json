@@ -1,0 +1,58 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "xbT3D2gBWaF1niLUg1VV",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "See",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "I'm",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "so",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "where",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "they're",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "ready",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "Okay",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "coming",
+            "end_time": 3.0
+        }
+    ],
+    "start_time": 1546456050.4,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456053.4,
+    "confidence": 0.71166795,
+    "message": "See I'm so where they're ready Okay coming ",
+    "client_id": 1546456050,
+    "duration": 3.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

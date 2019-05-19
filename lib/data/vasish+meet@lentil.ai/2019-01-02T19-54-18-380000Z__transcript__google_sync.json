@@ -1,0 +1,63 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "mgAiEGgBZ7hj24wCfnGs",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Actually",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "free",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "because",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "a",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "lot",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "of",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "hidden",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "rows",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "right",
+            "end_time": 3.0
+        }
+    ],
+    "start_time": 1546458858.38,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458861.38,
+    "confidence": 0.8301991,
+    "message": "Actually free because a lot of hidden rows right ",
+    "client_id": 1546458858,
+    "duration": 3.0,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

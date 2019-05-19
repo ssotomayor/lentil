@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "RLQVEGgBWaF1niLU1VYe",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "nailed",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "a",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "bunch",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "of",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "those",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "States",
+            "end_time": 1.8
+        }
+    ],
+    "start_time": 1546458037.42,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458039.219,
+    "confidence": 0.8589937,
+    "message": "nailed a bunch of those States",
+    "client_id": 1546458037,
+    "duration": 1.8,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

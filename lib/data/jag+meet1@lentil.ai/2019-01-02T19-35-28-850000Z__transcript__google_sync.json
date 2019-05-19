@@ -1,0 +1,23 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "QwAREGgBZ7hj24wCInFH",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "charger",
+            "end_time": 2.7
+        }
+    ],
+    "start_time": 1546457728.85,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457731.55,
+    "confidence": 0.754483,
+    "message": "charger",
+    "client_id": 1546457728,
+    "duration": 2.7,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

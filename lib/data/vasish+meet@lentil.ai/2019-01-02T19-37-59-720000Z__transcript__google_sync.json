@@ -1,0 +1,183 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "NbQTEGgBWaF1niLUeVa8",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Using",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "the",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "time",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "zone",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "account",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "settings",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "That's",
+            "end_time": 3.4
+        },
+        {
+            "start_time": 3.4,
+            "word": "probably",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "what's",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "happening",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "people",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "times",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.1,
+            "word": "I",
+            "end_time": 5.2
+        },
+        {
+            "start_time": 5.2,
+            "word": "would",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "be",
+            "end_time": 5.5
+        },
+        {
+            "start_time": 5.5,
+            "word": "India",
+            "end_time": 5.8
+        },
+        {
+            "start_time": 5.8,
+            "word": "would",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "not",
+            "end_time": 6.2
+        },
+        {
+            "start_time": 6.2,
+            "word": "be",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "ready",
+            "end_time": 7.2
+        },
+        {
+            "start_time": 7.2,
+            "word": "Yeah",
+            "end_time": 7.4
+        },
+        {
+            "start_time": 7.7,
+            "word": "She",
+            "end_time": 8.6
+        },
+        {
+            "start_time": 8.6,
+            "word": "think",
+            "end_time": 9.3
+        },
+        {
+            "start_time": 9.3,
+            "word": "you",
+            "end_time": 9.4
+        },
+        {
+            "start_time": 9.4,
+            "word": "should",
+            "end_time": 9.5
+        },
+        {
+            "start_time": 9.5,
+            "word": "check",
+            "end_time": 9.7
+        },
+        {
+            "start_time": 9.7,
+            "word": "his",
+            "end_time": 10.1
+        },
+        {
+            "start_time": 10.1,
+            "word": "time",
+            "end_time": 10.3
+        },
+        {
+            "start_time": 10.3,
+            "word": "zone",
+            "end_time": 10.6
+        },
+        {
+            "start_time": 10.6,
+            "word": "and",
+            "end_time": 10.7
+        },
+        {
+            "start_time": 10.7,
+            "word": "what",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "it",
+            "end_time": 11.2
+        },
+        {
+            "start_time": 11.2,
+            "word": "is",
+            "end_time": 11.5
+        }
+    ],
+    "start_time": 1546457879.72,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457891.22,
+    "confidence": 0.854742,
+    "message": "Using the time zone account settings That's probably what's happening people times I would be India would not be ready Yeah She think you should check his time zone and what it is ",
+    "client_id": 1546457879,
+    "duration": 11.5,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

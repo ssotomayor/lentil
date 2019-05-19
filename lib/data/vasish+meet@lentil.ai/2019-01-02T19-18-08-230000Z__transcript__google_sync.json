@@ -1,0 +1,58 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "AwABEGgBZ7hj24wCT3FX",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Okay",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "we're",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "going",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "to",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "11",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "is",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "in",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "progress",
+            "end_time": 2.6
+        }
+    ],
+    "start_time": 1546456688.23,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456690.829,
+    "confidence": 0.81565803,
+    "message": "Okay we're going to 11 is in progress ",
+    "client_id": 1546456688,
+    "duration": 2.6,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

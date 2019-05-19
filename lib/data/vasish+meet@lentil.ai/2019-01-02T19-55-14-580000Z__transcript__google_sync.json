@@ -1,0 +1,93 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "ngAjEGgBZ7hj24wCO3Fk",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "I",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "don't",
+            "end_time": 3.5
+        },
+        {
+            "start_time": 3.5,
+            "word": "think",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "about",
+            "end_time": 3.7
+        },
+        {
+            "start_time": 3.7,
+            "word": "yeah",
+            "end_time": 3.9
+        },
+        {
+            "start_time": 3.9,
+            "word": "I",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "think",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "to",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "Rob's",
+            "end_time": 5.0
+        },
+        {
+            "start_time": 5.0,
+            "word": "point",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.1,
+            "word": "The",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "electron",
+            "end_time": 5.7
+        },
+        {
+            "start_time": 5.7,
+            "word": "issues",
+            "end_time": 6.0
+        },
+        {
+            "start_time": 6.0,
+            "word": "aren't",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "blocked",
+            "end_time": 6.4
+        }
+    ],
+    "start_time": 1546458914.58,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458920.98,
+    "confidence": 0.8504827,
+    "message": "I don't think about yeah I think to Rob's point The electron issues aren't blocked ",
+    "client_id": 1546458914,
+    "duration": 6.4,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

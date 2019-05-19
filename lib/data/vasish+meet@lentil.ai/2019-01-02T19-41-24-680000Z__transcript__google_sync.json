@@ -1,0 +1,83 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "YAAWEGgBZ7hj24wCjXEg",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Because",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "when",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "you",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "go",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "back",
+            "end_time": 1.9
+        },
+        {
+            "start_time": 1.9,
+            "word": "you",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "go",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "to",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "a",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "members",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "this",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "page",
+            "end_time": 3.4
+        },
+        {
+            "start_time": 3.4,
+            "word": "first",
+            "end_time": 3.6
+        }
+    ],
+    "start_time": 1546458084.68,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546458088.279,
+    "confidence": 0.8511054,
+    "message": "Because when you go back you go to a members this page first ",
+    "client_id": 1546458084,
+    "duration": 3.6,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

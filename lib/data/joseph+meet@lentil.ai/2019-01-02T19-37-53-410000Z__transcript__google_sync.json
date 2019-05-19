@@ -1,0 +1,93 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "TgATEGgBZ7hj24wCW3GS",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Then",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "I'd",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "counter",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "and",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "like",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "we",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "shouldn't",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "have",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "a",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "user",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "field",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "for",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "preferred",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "time",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "zone",
+            "end_time": 4.9
+        }
+    ],
+    "start_time": 1546457873.41,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457878.31,
+    "confidence": 0.8372802,
+    "message": "Then I'd counter and like we shouldn't have a user field for preferred time zone ",
+    "client_id": 1546457873,
+    "duration": 4.9,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

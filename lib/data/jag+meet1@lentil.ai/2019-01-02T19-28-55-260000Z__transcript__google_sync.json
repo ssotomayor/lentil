@@ -1,0 +1,38 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "JwALEGgBZ7hj24wCJ3EA",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "What",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "was",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "causing",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "us",
+            "end_time": 0.9
+        }
+    ],
+    "start_time": 1546457335.26,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457336.159,
+    "confidence": 0.7302453,
+    "message": "What was causing us ",
+    "client_id": 1546457335,
+    "duration": 0.9,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

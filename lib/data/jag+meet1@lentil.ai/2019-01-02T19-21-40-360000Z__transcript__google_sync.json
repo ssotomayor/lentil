@@ -1,0 +1,223 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "EQAEEGgBZ7hj24wCinHW",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Starts",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "and",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "validate",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "start",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "as",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "a",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "valid",
+            "end_time": 3.0
+        },
+        {
+            "start_time": 3.0,
+            "word": "eighth",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "notes",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "is",
+            "end_time": 4.7
+        },
+        {
+            "start_time": 4.7,
+            "word": "being",
+            "end_time": 5.1
+        },
+        {
+            "start_time": 5.1,
+            "word": "it's",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "not",
+            "end_time": 5.4
+        },
+        {
+            "start_time": 5.4,
+            "word": "being",
+            "end_time": 5.6
+        },
+        {
+            "start_time": 5.6,
+            "word": "updated",
+            "end_time": 5.9
+        },
+        {
+            "start_time": 5.9,
+            "word": "with",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "the",
+            "end_time": 6.1
+        },
+        {
+            "start_time": 6.1,
+            "word": "other",
+            "end_time": 6.3
+        },
+        {
+            "start_time": 6.3,
+            "word": "side",
+            "end_time": 6.7
+        },
+        {
+            "start_time": 6.7,
+            "word": "I",
+            "end_time": 6.8
+        },
+        {
+            "start_time": 6.8,
+            "word": "mean",
+            "end_time": 7.0
+        },
+        {
+            "start_time": 7.0,
+            "word": "there's",
+            "end_time": 7.8
+        },
+        {
+            "start_time": 7.8,
+            "word": "three",
+            "end_time": 7.9
+        },
+        {
+            "start_time": 7.9,
+            "word": "the",
+            "end_time": 8.8
+        },
+        {
+            "start_time": 8.8,
+            "word": "whole",
+            "end_time": 9.1
+        },
+        {
+            "start_time": 9.1,
+            "word": "thing",
+            "end_time": 9.3
+        },
+        {
+            "start_time": 9.3,
+            "word": "just",
+            "end_time": 9.4
+        },
+        {
+            "start_time": 9.4,
+            "word": "connected",
+            "end_time": 9.8
+        },
+        {
+            "start_time": 9.8,
+            "word": "the",
+            "end_time": 9.9
+        },
+        {
+            "start_time": 9.9,
+            "word": "whole",
+            "end_time": 10.0
+        },
+        {
+            "start_time": 10.0,
+            "word": "side",
+            "end_time": 10.3
+        },
+        {
+            "start_time": 10.3,
+            "word": "Bart",
+            "end_time": 10.6
+        },
+        {
+            "start_time": 10.6,
+            "word": "is",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "not",
+            "end_time": 10.8
+        },
+        {
+            "start_time": 10.8,
+            "word": "doing",
+            "end_time": 11.0
+        },
+        {
+            "start_time": 11.0,
+            "word": "anything",
+            "end_time": 11.2
+        },
+        {
+            "start_time": 11.2,
+            "word": "useful",
+            "end_time": 11.4
+        },
+        {
+            "start_time": 11.4,
+            "word": "because",
+            "end_time": 11.7
+        },
+        {
+            "start_time": 11.7,
+            "word": "what",
+            "end_time": 11.9
+        },
+        {
+            "start_time": 11.9,
+            "word": "I'm",
+            "end_time": 12.0
+        },
+        {
+            "start_time": 12.0,
+            "word": "trying",
+            "end_time": 12.0
+        }
+    ],
+    "start_time": 1546456900.36,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456912.36,
+    "confidence": 0.86570877,
+    "message": "Starts and validate start as a valid eighth notes is being it's not being updated with the other side I mean there's three the whole thing just connected the whole side Bart is not doing anything useful because what I'm trying",
+    "client_id": 1546456900,
+    "duration": 12.0,
+    "email": "jag+meet1@lentil.ai",
+    "user_id": "f10327b2-6f17-4876-9d15-14c3b0160469"
+}

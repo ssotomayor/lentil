@@ -1,0 +1,93 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "9rQGEGgBWaF1niLUPlU7",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Go",
+            "end_time": 0.3
+        },
+        {
+            "start_time": 0.3,
+            "word": "ahead",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "and",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "out",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "it",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "Maybe",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "maybe",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "maybe",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "it",
+            "end_time": 3.8
+        },
+        {
+            "start_time": 3.8,
+            "word": "was",
+            "end_time": 4.1
+        },
+        {
+            "start_time": 4.1,
+            "word": "and",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "we",
+            "end_time": 4.2
+        },
+        {
+            "start_time": 4.2,
+            "word": "accidentally",
+            "end_time": 4.6
+        },
+        {
+            "start_time": 4.6,
+            "word": "overwrite",
+            "end_time": 4.9
+        },
+        {
+            "start_time": 4.9,
+            "word": "it",
+            "end_time": 5.1
+        }
+    ],
+    "start_time": 1546457015.23,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457020.329,
+    "confidence": 0.8509815,
+    "message": "Go ahead and out it Maybe maybe maybe it was and we accidentally overwrite it ",
+    "client_id": 1546457015,
+    "duration": 5.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

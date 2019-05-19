@@ -1,0 +1,108 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "LbQSEGgBWaF1niLUjlbx",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Yeah",
+            "end_time": 1.0
+        },
+        {
+            "start_time": 1.0,
+            "word": "I",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "know",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "I",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "miss",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "this",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "time",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "the",
+            "end_time": 2.4
+        },
+        {
+            "start_time": 2.4,
+            "word": "top",
+            "end_time": 2.6
+        },
+        {
+            "start_time": 2.6,
+            "word": "right",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "I",
+            "end_time": 2.9
+        },
+        {
+            "start_time": 2.9,
+            "word": "see",
+            "end_time": 3.1
+        },
+        {
+            "start_time": 3.1,
+            "word": "you",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "know",
+            "end_time": 3.3
+        },
+        {
+            "start_time": 3.3,
+            "word": "or",
+            "end_time": 4.0
+        },
+        {
+            "start_time": 4.0,
+            "word": "understand",
+            "end_time": 4.4
+        },
+        {
+            "start_time": 4.4,
+            "word": "the",
+            "end_time": 4.5
+        },
+        {
+            "start_time": 4.5,
+            "word": "problem",
+            "end_time": 4.8
+        }
+    ],
+    "start_time": 1546457816.62,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457821.42,
+    "confidence": 0.84379774,
+    "message": "Yeah I know I miss this time the top right I see you know or understand the problem ",
+    "client_id": 1546457816,
+    "duration": 4.8,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

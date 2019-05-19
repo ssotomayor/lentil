@@ -1,0 +1,28 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "0LT7D2gBWaF1niLU0VUD",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "You",
+            "end_time": 1.1
+        },
+        {
+            "start_time": 1.1,
+            "word": "suck",
+            "end_time": 2.8
+        }
+    ],
+    "start_time": 1546456331.74,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546456334.539,
+    "confidence": 0.7929586,
+    "message": "You suck ",
+    "client_id": 1546456331,
+    "duration": 2.8,
+    "email": "raj+meet@lentil.ai",
+    "user_id": "acccfb99-79f7-4c44-9dac-c39c66b7dcdb"
+}

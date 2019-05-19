@@ -1,0 +1,38 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "HwAHEGgBZ7hj24wCTnGT",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Try",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "again",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "real",
+            "end_time": 0.7
+        },
+        {
+            "start_time": 0.7,
+            "word": "quick",
+            "end_time": 1.1
+        }
+    ],
+    "start_time": 1546457080.67,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457081.77,
+    "confidence": 0.8140302,
+    "message": "Try again real quick ",
+    "client_id": 1546457080,
+    "duration": 1.1,
+    "email": "joseph+meet@lentil.ai",
+    "user_id": "0333cc56-9776-4c3b-86e3-4a412650ef02"
+}

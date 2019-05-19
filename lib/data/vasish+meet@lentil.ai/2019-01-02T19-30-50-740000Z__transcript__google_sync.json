@@ -1,0 +1,103 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "ELQMEGgBWaF1niLU4VYL",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Okay",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "so",
+            "end_time": 0.6
+        },
+        {
+            "start_time": 0.6,
+            "word": "the",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "question",
+            "end_time": 0.9
+        },
+        {
+            "start_time": 0.9,
+            "word": "here",
+            "end_time": 1.2
+        },
+        {
+            "start_time": 1.2,
+            "word": "just",
+            "end_time": 1.6
+        },
+        {
+            "start_time": 1.6,
+            "word": "if",
+            "end_time": 1.8
+        },
+        {
+            "start_time": 1.8,
+            "word": "you",
+            "end_time": 2.0
+        },
+        {
+            "start_time": 2.0,
+            "word": "wanted",
+            "end_time": 2.1
+        },
+        {
+            "start_time": 2.1,
+            "word": "to",
+            "end_time": 2.2
+        },
+        {
+            "start_time": 2.2,
+            "word": "take",
+            "end_time": 2.3
+        },
+        {
+            "start_time": 2.3,
+            "word": "out",
+            "end_time": 2.5
+        },
+        {
+            "start_time": 2.5,
+            "word": "the",
+            "end_time": 2.7
+        },
+        {
+            "start_time": 2.7,
+            "word": "old",
+            "end_time": 2.8
+        },
+        {
+            "start_time": 2.8,
+            "word": "account",
+            "end_time": 3.2
+        },
+        {
+            "start_time": 3.2,
+            "word": "settings",
+            "end_time": 3.6
+        },
+        {
+            "start_time": 3.6,
+            "word": "good",
+            "end_time": 3.9
+        }
+    ],
+    "start_time": 1546457450.74,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457454.64,
+    "confidence": 0.8476236,
+    "message": "Okay so the question here just if you wanted to take out the old account settings good ",
+    "client_id": 1546457450,
+    "duration": 3.9,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

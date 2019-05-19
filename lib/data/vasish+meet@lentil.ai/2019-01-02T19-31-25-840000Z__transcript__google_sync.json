@@ -1,0 +1,43 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "MAANEGgBZ7hj24wCiHFo",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "That",
+            "end_time": 0.2
+        },
+        {
+            "start_time": 0.2,
+            "word": "are",
+            "end_time": 0.4
+        },
+        {
+            "start_time": 0.4,
+            "word": "being",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "used",
+            "end_time": 0.8
+        },
+        {
+            "start_time": 0.8,
+            "word": "anymore",
+            "end_time": 1.1
+        }
+    ],
+    "start_time": 1546457485.84,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457486.94,
+    "confidence": 0.86439687,
+    "message": "That are being used anymore ",
+    "client_id": 1546457485,
+    "duration": 1.1,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}

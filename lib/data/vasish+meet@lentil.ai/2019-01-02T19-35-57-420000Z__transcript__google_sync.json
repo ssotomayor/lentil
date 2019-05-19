@@ -1,0 +1,48 @@
+{
+    "room_id": "3f8416aa-708f-48a3-ad3e-9cc982ff3a36",
+    "id": "RAAREGgBZ7hj24wCpHFZ",
+    "meeting_id": "984d0e64-9206-4878-8889-1474c4db6f59",
+    "words": [
+        {
+            "start_time": 0.0,
+            "word": "Just",
+            "end_time": 0.5
+        },
+        {
+            "start_time": 0.5,
+            "word": "what",
+            "end_time": 1.3
+        },
+        {
+            "start_time": 1.3,
+            "word": "does",
+            "end_time": 1.4
+        },
+        {
+            "start_time": 1.4,
+            "word": "that",
+            "end_time": 1.5
+        },
+        {
+            "start_time": 1.5,
+            "word": "mean",
+            "end_time": 1.7
+        },
+        {
+            "start_time": 1.7,
+            "word": "one",
+            "end_time": 2.4
+        }
+    ],
+    "start_time": 1546457757.42,
+    "audiofile": null,
+    "event_type": "FULL",
+    "highlights": null,
+    "end_time": 1546457759.82,
+    "confidence": 0.7956459,
+    "message": "Just what does that mean one ",
+    "client_id": 1546457757,
+    "duration": 2.4,
+    "email": "vasish+meet@lentil.ai",
+    "user_id": "59c3c25a-b2dd-43a6-ba3a-9f621239b3b0"
+}
